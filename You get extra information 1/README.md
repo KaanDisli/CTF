@@ -66,7 +66,8 @@ print(res)
 print((extra_information -2*res[1])) 
 
 ```
-!(https://github.com/KaanDisli/CTF/assets/96348553/bda01b8c-cf80-4de1-8578-323bca04e166)
+
+![resim](https://github.com/KaanDisli/CTF/assets/96348553/0fb00c65-7790-4a4d-a8c7-cf5701323e6e)
 
 
 
