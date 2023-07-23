@@ -45,7 +45,8 @@ extra_information: 2656555287447842989559415071583557447281901453427194071451296
 We know the sum of p and q and the product of p and q
 
 p * q = n
-p + 2*q = extra_şnformation
+
+p + 2*q = extra_information
 
 
 ```
