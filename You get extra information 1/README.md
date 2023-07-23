@@ -66,8 +66,9 @@ print(res)
 print((extra_information -2*res[1])) 
 
 ```
+!(https://github.com/KaanDisli/CTF/assets/96348553/bda01b8c-cf80-4de1-8578-323bca04e166)
 
-(https://github.com/KaanDisli/CTF/assets/96348553/3c4925a8-b9cd-43ef-b5a6-7ab9a2eb24cf)
+
 
 
 These are the values for p and q
