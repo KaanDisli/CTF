@@ -7,7 +7,7 @@
 ## About the Challenge
 2 files: main.py and output.txt
 The content of main.py
-`from Crypto.Util.number import *
+``from Crypto.Util.number import *
 from flag import flag
 
 p = getPrime(512)
@@ -21,4 +21,4 @@ ptxt = bytes_to_long(flag)
 c = pow(ptxt, e, n)
 
 with open('output.txt', 'w') as f:
-    f.write(f"n: {n}\nc: {c}\ne: {e}\nextra_information: {extra_information}")`
+    f.write(f"n: {n}\nc: {c}\ne: {e}\nextra_information: {extra_information}")``
