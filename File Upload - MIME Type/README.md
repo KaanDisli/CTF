@@ -22,8 +22,9 @@ Now we open  Burp Suite to upload a php file, we must keep ' Content-Type:image/
 ![resim](https://github.com/KaanDisli/CTF/assets/96348553/736b8a34-83ed-48e4-842a-e5a775d205fa)
 
 this is what I tried first but there is no file named .passwd in the current directory. We have to move up 3 directories but the file is hidden so we use ls -a instead
+![c2255c3adfd4e228be0415e6ecf396e6](https://github.com/KaanDisli/CTF/assets/96348553/9c49862d-e337-4903-b2b1-60e0bce2bdcc)
 
-![resim](https://github.com/KaanDisli/CTF/assets/96348553/cc4e477b-123d-4c6a-9ffd-f9d94ac4ab92)
+
 
 so the final code is:
 
