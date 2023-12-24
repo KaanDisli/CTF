@@ -26,6 +26,8 @@ this is what I tried first but there is no file named .passwd in the current dir
 ![resim](https://github.com/KaanDisli/CTF/assets/96348553/cc4e477b-123d-4c6a-9ffd-f9d94ac4ab92)
 
 so the final code is:
+
+
 ![720e72c8ff17b3bec3421d8323747a31](https://github.com/KaanDisli/CTF/assets/96348553/ea781cac-ed20-4afc-b392-b0b2a525f84a)
 
 
